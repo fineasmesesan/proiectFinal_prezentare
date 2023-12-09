@@ -1,0 +1,2 @@
+Statisticile pentru bbb.txt:
+Numărul de linii: 1

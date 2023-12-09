@@ -1,0 +1,2 @@
+Statisticile pentru aaa.txt:
+Numărul de linii: 3
